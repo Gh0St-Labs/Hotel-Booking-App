@@ -1,0 +1,8 @@
+#1 Users can browse a list of hotels
+#2 Users can book a hotel
+#3 Users receive a reservation ticket
+
+Classes in the app which are going to be used:
+@ User
+@ Hotel
+@ Reservation
